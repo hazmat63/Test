@@ -1,0 +1,22 @@
+#include<stdio.h>
+int main(int n)
+{
+int n, f=1, t=0;
+if (n<1)
+{
+  printf("%d is the first term of the Fibonacci Series",f;
+  return 0;
+}
+else
+{  printf("First %d terms of the Fibonacci Series are:",n)
+   for(int i=0; i<=n; i++)
+   {
+   printf("%d\t", f;
+   t=f;
+   f=f+t;
+   }
+   return 0;
+}
+
+
+
