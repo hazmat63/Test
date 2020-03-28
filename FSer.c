@@ -2,7 +2,7 @@
 int main()
 {
     int x, f=1, t=0, g=0;
-    printf("Insert the number of terms to which Fibonacci series is to be displayed\n");
+    printf("Insert the number of terms to which Fibonacci series is to be displayed:\n");
     scanf("%d",&x);
     if (x=1)
 {
