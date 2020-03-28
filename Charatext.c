@@ -47,7 +47,7 @@ int main()
 	fclose(fptr);
 	for(i=0; i<index;i++)
 	{
-		printf("%-15s : %d\n",words[i],count[i]);
+		printf("%s : %d\n",words[i],count[i]);
 	}
 	return 0;
    }
