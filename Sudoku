@@ -91,7 +91,7 @@ if (solution(grid, row, col, num))
 }  
 int main()
 { int grid[5][5];
-printf("Enter numbers(Row wise)");
+printf("Enter numbers(Starting from first Row then second row and so on)");
 for(int i=0;i<5;i++)
 for(int j=0;j<5;j++)
 scanf("%d",&grid[i][j]);
