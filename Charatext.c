@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include<ctype.h>                                     
+#include<ctype.h>Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  
 #include<stdlib.h>
 #include<string.h>
 
